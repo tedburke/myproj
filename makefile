@@ -1,3 +1,3 @@
-myproj: main.c hello.c hello.h
-	gcc main.c hello.c -o myproj
+myproj: main.c funcs.c funcs.h
+	gcc main.c funcs.c -o myproj
 
