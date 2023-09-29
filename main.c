@@ -5,7 +5,7 @@
 //
 
 #include <stdio.h>
-#include <funcs.h>
+#include "funcs.h"
 
 int main()
 {
