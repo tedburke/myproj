@@ -13,6 +13,8 @@ int main()
     // Call functions
     hello();
     goodbye();
+    hello();
+    goodbye();
 
     // Exit normally
     return 0;
