@@ -11,7 +11,7 @@ int main()
 {
     // Call functions
     hello();
-    hello();
+    goodbye();
 
     // Exit normally
     return 0;
