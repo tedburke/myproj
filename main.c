@@ -4,7 +4,6 @@
 // Last updated 29-Sept-2023
 //
 
-// Header files
 #include <stdio.h>
 #include "funcs.h"
 
