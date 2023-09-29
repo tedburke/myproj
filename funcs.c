@@ -7,6 +7,6 @@ void hello()
 
 void goodbye()
 {
-    printf("Goodbye.\n");
+    printf("Adios.\n");
 }
 
