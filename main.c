@@ -9,9 +9,11 @@
 
 int main()
 {
+    // Call functions
     hello();
     hello();
 
+    // Exit normally
     return 0;
 }
 
