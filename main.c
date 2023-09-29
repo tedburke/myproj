@@ -12,8 +12,8 @@ int main()
 {
     // Call functions
     hello();
-    goodbye();
     hello();
+    goodbye();
     goodbye();
 
     // Exit normally
