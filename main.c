@@ -11,6 +11,7 @@ int main()
 {
     // Call functions
     hello();
+    for (int m=0 ; m<10 ; ++m)
     for (int n=0 ; n<10 ; ++n) printf("%d%c", n, n==9 ? '\n' : ' ');
     goodbye();
 
