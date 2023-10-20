@@ -1,5 +1,5 @@
 //
-// A C program
+// This is a C program
 // Written by Ted Burke
 // Last updated 29-Sept-2023
 //
